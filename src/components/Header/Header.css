@@ -24,3 +24,13 @@
     
    
 }
+.signOut-btn{
+    margin-left: 12px;
+    border: none;
+    background-color: #2073aa;
+    color : white;
+}
+
+.signOut-btn:hover{
+    color:lightblue;
+}

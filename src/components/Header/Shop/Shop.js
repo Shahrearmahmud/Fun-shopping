@@ -53,7 +53,7 @@ const Shop = () => {
     
       {
           products.map(product=>
-          <Product key={product.id}
+          <Product key={product._id}
           product={product}
           handleAddToCart={handleAddToCart}
           ></Product>)
